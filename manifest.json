@@ -1,0 +1,12 @@
+{
+    "name": "Dallas Weather",
+    "version": "1.0.0",
+    "description": "This is an extention that displays the weather forecast in Dallas Texas",
+    "manifest_version": 3,
+    "author": "Tripp Durham",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Dallas Forecast"
+    }
+
+}
